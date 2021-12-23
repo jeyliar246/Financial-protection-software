@@ -1,0 +1,24 @@
+============BUILD OUTPUT DESCRIPTION =============
+
+Please read this before using this software
+
+The software is live and interacts with database. The host computer must have a running local server(WAMP or XAMPP) before it will work.
+
+RUNNING THE APP
+
+1. Put on your server. 
+
+2. Copy the CreditCard folder to C:/xamp/htdocs if you are using XAMPP or C:/wamp/www folder if you are using WAMP.
+
+3. Open your browser and go to localhost/phpmyadin
+
+4. Click on import then select atmcard.sql file in database folder
+
+5. Open your browser and go to localhost/CreditCard to run
+
+LOGIN DETAILS
+Admin- admin@gmail.com
+Password: 12345
+
+
+Any issues? Contact developer +2348160417161
